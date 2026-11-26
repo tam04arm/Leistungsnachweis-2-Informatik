@@ -1,6 +1,14 @@
-# Leistungsnachweis-2-Informatik
-Daria Valentino (valendar@students.zhaw.ch)
-Natalie Blöchlinger (bloecnat@students.zhaw.ch)
-Tamara Marjanovic (marjatam@students.zhaw.ch)
+# Kindersterblichkeit seit dem Jahr 2000
 
-Fragestellungen: 
+Leistungsnachweis-2-Informatik
+
+## Team 
+
+- Daria Valentino (valendar@students.zhaw.ch)
+- Natalie Blöchlinger (bloecnat@students.zhaw.ch)
+- Tamara Marjanovic (marjatam@students.zhaw.ch)
+
+## Konzept
+- Unsere Gruppe untersucht die Entwicklung der Kindersterblichkeit (Kinder unter fünf Jahren) in der Schweiz, Indien und Brasilien seit dem Jahre 2000.
+- Unteranderem zeigen wir auf welches Land die grösste prozentuale Abnahme seit dem hatte?
+
