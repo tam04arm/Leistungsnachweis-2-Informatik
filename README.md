@@ -9,6 +9,7 @@ Leistungsnachweis-2-Informatik
 - Tamara Marjanovic (marjatam@students.zhaw.ch)
 
 ## Konzept
-- Unsere Gruppe untersucht die Entwicklung der Kindersterblichkeit (Kinder unter fünf Jahren) in der Schweiz, Indien und Brasilien seit dem Jahre 2000.
+
+- Unsere Gruppe untersucht die Entwicklung der Kindersterblichkeit (Kinder unter fünf Jahren) in der Schweiz, Brasilien, Kambodscha Afghanistan und Nigeria seit dem Jahre 2000.
 - Unteranderem zeigen wir auf welches Land die grösste prozentuale Abnahme seit dem hatte?
 
