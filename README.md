@@ -10,5 +10,5 @@ Leistungsnachweis-2-Informatik
 
 ## Konzept
 - Unsere Gruppe untersucht die Entwicklung der Kindersterblichkeit (Kinder unter fünf Jahren) in der Schweiz, Indien und Brasilien seit dem Jahre 2000.
-- Unteranderem zeigen wir auf welches Land die grösste prozentuale Abnahme seit dem hatte?
+- Unteranderem zeigen wir auf welches Land die grösste prozentuale Abnahme seit dem hatte
 
